@@ -1,0 +1,8 @@
+.card {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.card img {
+  border-bottom: 1px solid #ddd;
+}
